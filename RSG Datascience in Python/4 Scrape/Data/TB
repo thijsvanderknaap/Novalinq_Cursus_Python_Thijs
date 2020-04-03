@@ -1,0 +1,189 @@
+,naam,rating,rating_ammount,btijd,bkosten,mkosten,link
+0,Spare Rib Express,4,4029,35,"1,50","13,95",/spare-rib-express-eindhoven
+1,Istanbul,4,685,25,0,"10,00",/istanbul-eindhoven
+2,Da Ching,4,1377,40,"2,50","18,00",/da-ching
+3,Paramaribo,4,1548,50,0,"20,00",/paramaribo
+4,Chinese Fine Food,4,2238,50,"2,90","20,00",/chinese-fine-food
+5,Sushi Express & Catering,4,1691,65,"2,50","20,00",/sushi-express-catering
+6,Abant,4,378,45,"2,50","15,00",/eethuis-abant
+7,Surabaya,4,580,30,"2,50","30,00",/surabaya-eindhoven
+8,Broodjes Brengen,5,475,35,"5,00","10,00",/broodjes-brengen
+9,Aladin,4,1613,50,"1,50","25,00",/aladin
+10,Magic Döner Pizza,4,3038,50,"2,50","9,00",/magic-doner-pizza
+11,Pikado,3,1195,40,"2,00","15,00",/pikado
+12,Sultan,4,1604,35,"2,50","12,50",/sultan-eindhoven
+13,The Ottoman,4,1282,35,"3,50","25,00",/the-ottoman-1
+14,Restaurant Mount Everest,4,117,40,"2,50","10,00",/mteverest
+15,Yakitori & The Sushi's,4,234,30,0,"12,50",/yakitori-the-sushis
+16,Shoarma Jeruzalem,4,641,35,"2,50","10,00",/shoarma-jeruzalem-1
+17,Avrasya,4,2408,55,"2,50","17,50",/avrasya-eindhoven
+18,Hakiki Döner,4,2235,30,"2,50","10,00",/hakiki-doner
+19,Restaurant Soho,4,2138,50,0,"12,50",/soho
+20,Mediterano,4,272,40,"2,50","10,00",/mediterano
+21,Bethlehem,4,191,45,0,"20,00",/bethlehem-eindhoven
+22,Mikado Sushi & grill,3,481,35,"3,00","15,00",/mikado-sushi-grill
+23,Posof,4,1094,30,0,"10,00",/posof-veldhoven
+24,Mr. Kebab,4,3238,55,"1,50","10,00",/mr-kebab
+25,Pizzeria il Giardino,3,860,30,0,"15,00",/pizzeria-il-gardino
+26,Dinner Time,4,210,50,0,"15,00",/dinnertime
+27,Çigköftem,5,731,30,"2,00","20,00",/cigkoftem-eindhoven
+28,Rafael,4,434,45,"3,00","12,50",/rafael-1
+29,Eethuis 't Veldje,4,947,"21,30",0,"10,00",/eethuis-t-veldje
+30,Oriëntal Green House,4,1831,45,"3,50","10,00",/green-house
+31,De Burger,3,23,65,0,"20,00",/de-burger
+32,Sang Lee Rotishop & Broodjeszaak,4,803,45,"2,80","10,00",/rotishop-eindhoven
+33,Passie voor Nasi,4,405,30,0,"15,00",/passie-voor-nasi
+34,'t Look Pizzeria & Döner Kebab,4,1288,45,"2,50","12,00",/a-la-turka-veldhoven
+35,Greek@home,4,2280,40,"2,50","20,00",/greekhome
+36,Sakana Eindhoven,4,543,30,"2,00","10,00",/sakana
+37,Streetfood,4,13,30,0,"10,00",/streetfood
+38,Eethuis De Gulden,4,533,30,"2,50","20,00",/de-gulden
+39,Eethuis Vestdijk,3,13,30,0,"12,50",/eethuis-vestdijk
+40,Yang Yang Sushi,4,2126,35,"3,50","9,99",/yang-yang-sushi
+41,Kelebek Kebab,4,1095,50,"1,50","10,00",/kelebek
+42,Oita Sushi,4,2884,45,"1,50","20,00",/oita-sushi
+43,Avondwinkel Grote Berg,4,15,50,"3,00","15,00",/avondwinkel-grote-berg
+44,SushiPoint,4,1685,60,"2,50","10,00",/sushipoint-eindhoven
+45,Burger Business,3,1787,40,"1,00","15,00",/burger-business-eindhoven
+46,Ristorante Pizzeria Il Colosseo,4,590,30,0,"10,00",/ristorante-pizzeria-il-colosseo
+47,Cafetaria De Markt,0,0,25,0,"20,00",/cafetaria-de-markt
+48,Bakker Bart,4,89,30,0,"15,00",/bakker-bart-eindhoven-winkelcentrum-woensel
+49,Subway,3,712,40,0,"10,00",/subway-eindhoven-aalsterweg
+50,Ali Baba Eindhoven,4,1228,35,"2,50","10,00",/ali-baba-eindhoven
+51,Guilty Pleasures Food,4,154,45,0,"15,00",/guilty-pleasures-food
+52,Latinos Burger,4,678,25,"1,50","15,00",/latinos-burger
+53,KFC,4,709,35,"1,99","10,00",/kfc-eindhoven
+54,Underdog cafe,4,11,35,0,"20,00",/underdog-cafe
+55,Cafetaria Stratum Eindhoven,4,228,35,"2,00","4,50",/cafetaria-stratum-eindhoven-1
+56,Burger King,3,583,40,"1,49","20,00",/burger-king-eindhoven
+57,Hemels,4,616,35,"3,50","15,00",/hemels-eindhoven
+58,Bert's Snack Paleis,4,130,40,0,"10,00",/berts-snack-paleis
+59,Woeste Burgers,4,39,55,0,"12,50",/woesteburgers
+60,'t Hoekske,4,448,35,0,"10,00",/t-hoekse
+61,Poke Bowl Today,4,897,35,"1,50","10,00",/poke-bowl-today
+62,Noedobar,4,308,40,0,"10,00",/noedobar
+63,Huckle & Berry,4,3,50,0,"10,00",/huckle-berry
+64,Lekkerindia,4,13,35,0,"35,00",/lekkerindia
+65,Lokanta Deja Vu Helmond,3,214,55,"2,00","15,00",/lokanta-deja-vu-helmond-1
+66,Döner Duck,4,66,50,0,"15,00",/doner-duck-eindhoven-wijnpeerstraat-1
+67,Kebab Huis Woensel,3,620,25,"3,00","10,00",/kebab-huis-woensel
+68,Five Guys,4,469,55,0,"15,00",/five-guys-eindhoven
+69,Primo Gusto,4,96,45,0,"30,00",/primo-gusto-eindhoven-1
+70,Franse Pannenkoeken,4,124,30,"5,00","15,00",/franse-pannenkoeken-helmond-1
+71,Kapsalonline,3,386,35,"2,00","10,00",/kapsalonline-2
+72,Waffelicious,4,62,30,0,"10,00",/waffelicious
+73,Vapiano,3,521,50,0,"10,00",/vapiano-eindhoven
+74,Flavor and Spice,4,12,30,0,"10,00",/afghani-zo
+75,Restaurant sala thai,4,88,40,0,"10,00",/restaurant-sala-thai
+76,Chidoz,4,405,30,0,"10,00",/chidoz-eindhoven
+77,Pim's Potatoes,0,0,30,0,"10,00",/pims-potatoes
+78,Pietza,4,27,30,0,"10,00",/pietza
+79,Mood,4,40,55,0,"10,00",/mood
+80,spice up,5,343,35,0,"15,00",/spice-up
+81,de Pizzaplaats,4,42,35,0,"10,00",/de-pizzaplaats
+82,Seasons Fine Asian Cuisine,4,26,35,0,"10,00",/seasons-fine-asian-cuisine
+83,FAB,4,52,15,0,"10,00",/fab
+84,At The Movies,4,19,,0,"15,00",/at-the-movies
+85,Hong Kong,0,0,,0,"10,00",/hong-kong-eindhoven
+86,Steakhouse Dommel 18,4,23,,0,"15,00",/dommel-18
+87,Mei Ling,4,172,,"2,50","12,50",/mei-ling-1
+88,Oranje Chicken,3,35,,"2,50","10,00",/oranje-chicken
+89,Pamir,4,131,,"3,00","14,99",/pamir
+90,MEYDAN,4,1283,,"2,00","12,50",/meydan-eindhoven
+91,Ben & Jerry's Ice Cream,4,21,,0,"25,00",/ben-jerrys-ijs-eindhoven
+92,Chang Thai Restaurant,5,90,,"1,50","10,00",/chang-thai-restaurant-1
+93,Thais voor Thuis,4,56,,0,"10,00",/thais-voor-thuis
+94,Poke Bowl Original Eindhoven,5,387,,0,"15,00",/poke-bowl-2
+95,Soul kitchen,4,5,,0,"15,00",/soul-kitchen
+96,Tasty Syria,3,39,,0,"15,00",/tasty-syria
+97,King Thai Eindhoven,4,166,,0,"10,00",/king-thai-eindhoven-1
+98,L'Azurro,3,10,,0,"10,00",/lazurro
+99,Dunkin',4,56,,0,"10,00",/dunkin-donuts-piazza
+100,Restaurant Mint,4,3,,0,"10,00",/restaurant-mint
+101,Pieperz,4,155,,0,"10,00",/pieperz-eindhoven
+102,Toasted & Roasted,4,157,,0,"10,00",/toasted-roasted
+103,Yellow monkey,4,26,,0,"10,00",/yellow-monkey
+104,Broodje SMITS,4,106,,0,"10,00",/broodje-smits
+105,More Döner,4,210,,0,"15,00",/more-doner
+106,Kip040,4,45,,0,"15,00",/kip040
+107,Visspecialist Marc van Mierlo,4,33,,0,"10,00",/visspecialist-marc-van-mierlo
+108,Seabas the urban fisher,4,63,,0,"10,00",/seabas-the-urban-fisher
+109,The Corner by Coffee enzo,4,8,,0,"15,00",/the-corner-eindhoven
+110,Slagerij Reinders,4,6,,0,"10,00",/slagerij-reinders
+111,Bagel & Juice,4,59,,0,"15,00",/bagel-juice-kleine-berg
+112,Bagel & Juice Strijp S,4,45,,0,"14,50",/bagel-juice-strijp-s
+113,Roll or Bowl,4,22,,"4,50","10,00",/roll-or-bowl-eindhoven
+114,Yoghurt Barn,4,15,,0,"10,00",/yoghurt-barn-1
+115,Sugo,3,63,,0,"15,00",/sugo-3
+116,Saffraan,4,32,,0,"10,00",/saffraan-eindhoven
+117,Subway Eindhoven Stationsplein,3,6,,0,"9,99",/subway-eindhoven-stationsplein
+118,Mr. Tok-Tok,3,310,,"2,00","15,00",/mr-tok-tok
+119,Rasamayi Foods,3,53,,0,"15,00",/rasamayifoods
+120,Al Manqal,4,484,,"2,50","15,00",/manqal
+121,Lunchroom Klein Tongelre,0,0,,0,"15,00",/lunchroom-klein-tongelre
+122,Mood Strijp-S,4,31,,0,"10,00",/mood-strijp-s
+123,Cafetaria de Rondweg,3,49,,"2,50","7,99",/cafetaria-de-rondweg-nieuw
+124,Papa John's,3,420,,0,"10,00",/papa-johns-eindhoven
+125,Tr'Andy Food,2,3,,0,"9,95",/trandy-food
+126,Taco Mundo,4,402,,"1,50","9,00",/taco-mundo-eindhoven
+127,Kapsalontheway,3,65,,"2,00","10,00",/kapsalontheway
+128,soeppa!,4,14,,"2,50","10,00",/soeppa
+129,Saygili Restaurant King Kebab,3,226,,"1,50","15,00",/antep-time
+130,Vegan Heroes,4,305,,0,"10,00",/vegan-heroes
+131,Monkey Coffee NS Eindhoven,4,12,,0,"10,00",/coffee-monkey
+132,Streetfood by Han,4,197,,0,"7,95",/streetfood-by-han-eindhoven
+133,Domino's Pizza,4,178,,0,"7,95",/dominos-pizza-5
+134,Domino's Pizza,4,199,,0,"15,00",/dominos-pizza-6
+135,Pummaró,4,35,,0,"29,00",/pummaro
+136,Restaurant Indonesia,4,250,,"2,00","25,00",/restaurant-indonesia
+137,De Kiet Barbecue Vibes,4,62,,"2,50","20,00",/de-kiet-barbecue-vibes
+138,Yalla Yalla by L'Oriental,4,244,,0,"15,00",/yalla-yalla-by-loriental
+139,The Food Corner,4,36,,0,"10,00",/the-food-corner
+140,Vintage,0,0,,0,"15,00",/vintage
+141,Broodjeszaak Beregoed,4,12,,0,"12,50",/broodjeszaak-beregoed
+142,De Hamburgerij,4,328,,"1,79","15,00",/de-hamburgerij
+143,Alaparia,5,7,,0,"10,00",/alaparia
+144,De Frietbar,4,72,,0,"29,00",/de-frietbar
+145,Satebar by Indonesia,4,147,,0,"7,99",/roros-place-1
+146,New York Pizza,4,200,,0,"9,50",/new-york-pizza-eindhoven-hoogstraat
+147,Adriaans Barbecue Catering,4,67,,"2,50","15,00",/adriaans-barbecue-catering
+148,Twapan,4,92,,"2,50","20,00",/twapan
+149,Restaurant OBA,4,45,,0,"20,00",/restaurant-oba
+150,Mr Sushi Teppanyaki,3,57,,"2,00","15,00",/mr-sushi-teppanyaki
+151,Shell,0,0,,0,"10,95",/shell-eindhoven-floraplein
+152,Johnny's Burger Company,3,171,,"1,50","15,00",/johnnys-burger-company-eindhoven
+153,Eten zonder Streken,5,7,,0,"10,00",/eten-zonder-streken
+154,Beef and the Wingman,4,24,,0,"10,00",/beef-and-the-wingman
+155,Indonesian Warung,4,12,,0,"10,00",/indonesian-warung
+156,Arizona TexMex,5,9,,0,"15,00",/arizona-texmex
+157,Tea Stories,5,14,,0,"10,00",/tea-stories
+158,Sabor,4,8,,0,"10,00",/sabor
+159,Miss Temaki,5,14,,0,"15,00",/miss-temaki-down-town-gourmet-market
+160,Bufkes Trudoplein Eindhoven,3,4,,0,"10,00",/broodjeszaak-bufkes
+161,Ziya's Taste,5,19,,0,"15,00",/ziyas-taste
+162,Korean Soul Food,4,8,,0,"10,00",/korean-soul-food
+163,Taj Mahal,3,52,,"2,50","10,00",/taj-mahal-eindhoven
+164,Happy Italy,4,86,,0,"15,00",/happy-italy-eindhoven
+165,Bombay Street Food,4,12,,0,"10,00",/bombay-street-food
+166,Mood Streetfood,4,25,,0,"15,00",/mood-streetfood
+167,China Catering,4,97,,"3,00","10,00",/china-catering-new
+168,Little Bangkok,0,0,,0,"10,00",/little-bangkok
+169,Fries love Balls,4,6,,0,"30,00",/fries-love-balls
+170,Vietnamama,4,10,,"2,50","10,00",/vietnamama
+171,IJssalon Kees,0,0,,0,"10,00",/ijssalon-kees
+172,Minos Kitchen,4,6,,0,"15,00",/minos-kitchen
+173,Go Fish,0,0,,0,"10,00",/go-fish
+174,Bagels & Beans Lieshout,4,17,,0,"15,00",/bagels-beans-lieshout
+175,Sri Ganesh Indiaas Restaurant,4,20,,0,"10,00",/sri-ganesh
+176,Mola Time,4,100,,"1,00","10,00",/mola-time-eindhoven-1
+177,The Carpaccio Chop,0,0,,0,"10,00",/the-carpaccio-chop-eindhoven
+178,Casa Sabatelli Eindhoven,3,3,,0,"10,00",/casa-sabatelli-eindhoven
+179,Mr. Meat,5,34,,0,"9,50",/mr-meat
+180,Doyuran,4,132,,"2,00","7,95",/doyuran
+181,Domino's Pizza,5,6,,0,"12,50",/dominos-pizza-eindhoven-sint-trudoplein
+182,Hap-Inn,5,4,,"2,50","15,00",/hap-inn
+183,Grieks Specialiteitenrestaurant Lithos,5,6,,"2,50","10,00",/grieks-restaurant-lithos
+184,Ekmekci Eindhoven,5,7,,"1,50","10,00",/ekmekci-eindhoven
+185,Burger King,4,23,,"1,49","15,00",/burger-king-hermanus-boexstraat
+186,Anne & Max,0,0,,0,,/anne-max-eindhoven
+187,{{RestaurantName}},,{{RestaurantReviewAmount}},,,,{{RestaurantUrl}}
