@@ -1,0 +1,23 @@
+h1, .h1{
+    color:blue;
+    font-size: 33px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 900;
+}
+
+h2, .h2{
+    font-size: 200%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h3, .h3{
+    color:blue;
+    font-size: 200%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h4, .h4{
+    color:blue;
+    font-size: 200%;
+    font-family: 'Quicksand', sans-serif;
+}
